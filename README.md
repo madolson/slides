@@ -15,6 +15,9 @@ Madelyn Olson's talk decks, and the code that generates them.
 | `Valkey placeholder slides.pptx` | `build_placeholder_deck.py` | `valkey-placeholder-slides.md` |
 | `Scaling Up and Out - How Valkey Does Both.pptx` | `build_nerdearla_deck.py` | `scaling-up-and-out-deck.md` |
 | `Open Source Maintainers vs The CVE Tsunami.pptx` | `build_cve_tsunami_deck.py` | `cve-tsunami-deck.md` |
+| `The Boring Layer.pptx` | `build_boring_layer_deck.py` (base deck: `~/Downloads/oss_elc_EU26.pptx`) | none yet |
+| `Percona Caching Deck.pptx` | hand-built | none |
+| `Percona Live 2026 Keynote.pptx` | hand-built | none |
 
 The CVE deck is built from the placeholder deck, so rebuild in this order:
 
